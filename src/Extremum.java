@@ -16,6 +16,7 @@ public class Extremum {
         } else if (a > b) {
             System.out.println("Le nombre " + a + " est le maximum");
 
+
         }
 
     }
